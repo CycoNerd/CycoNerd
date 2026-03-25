@@ -3,7 +3,7 @@
 I’m a full-time student and multi-disciplinary technologist passionate about **innovation, security, and justice**.
 
 🎓 Currently pursuing a **double major in Computer Science & Business Administration (Information Systems)**  
-📚 Also minoring in **Decision Sciences** and **Mathematics**  
+📚 Also minoring in **AI for Business Applications**  
 🛠️ Building toward industry certifications in AI, cybersecurity, IT, programming, and data analytics  
 ⚖️ Advocate for **prison and criminal justice reform**, shaped by direct lived experience  
 
